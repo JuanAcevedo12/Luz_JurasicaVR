@@ -6,7 +6,7 @@
 ![Code License](https://img.shields.io/badge/Code_License-GNU_GPL_v3.0-orange?style=flat-square)
 ![Assets License](https://img.shields.io/badge/Assets_License-CC_BY_NC_SA_%204.0-red?style=flat-square)
 
-![Vista previa del proyecto](Resources\LJVR_01.png)
+![Vista previa del proyecto](/Resources/LJVR_01.png)
 
 ## Descripción
 
